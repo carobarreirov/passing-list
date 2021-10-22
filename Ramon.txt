@@ -1,0 +1,7 @@
+Ramón Alejandro Ruiz Pérez
+¿Qué aprendí hoy?
+    El ciclo git, para el manejo de versiones en proyectos.
+¿Qué dudas todavía tengo?
+    De momento todo claro.
+¿Qué me gustaría de la sig. clase?
+    Continuar con el uso de Git para el manejo de versiones.
