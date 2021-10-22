@@ -1,0 +1,4 @@
+Marco Emilio Núñez Jiménez
+Aprendí más sobre VCS y como es un ciclo típico en Git
+No entendí muy bien para qué es el archivo de .gitignore
+Me gustaría ver como los errores más comunes que cometen los equipos de trabajo en Git para así poder evitarlos.
