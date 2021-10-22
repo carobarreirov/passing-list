@@ -1,0 +1,4 @@
+Tu nombre:Santiago Rivera Gonzalez
+¿Qué aprendí hoy?Reforse el flujo de trabajo entre varias versiones con github
+¿Qué dudas todavía tengo? A veces se me complica encontrar la version mas reciente y actualisar la mia
+¿Qué me gustaría de la sig. clase?Explicación rapida de lo que habara en el examen
