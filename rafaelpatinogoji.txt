@@ -1,1 +1,10 @@
-a
+Rafa Patino Goji
+
+¿Qué aprendí hoy?
+A usar github y git, está muy padre
+
+¿Qué dudas todavía tengo?
+Porqué es mejor github a las demás opciones
+
+¿Qué me gustaría de la sig. clase?
+Usar el control de versiones cuando tienes cambios locales que chocan. Merge conflicts, nunca he entendido que onda con eso
