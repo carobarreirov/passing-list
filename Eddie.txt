@@ -1,0 +1,4 @@
+Tu nombre Edgardo Pérez Ríos Corssen
+¿Qué aprendí hoy? Las diferentes opciones a Github, como es el Git Cycle y sobre VCS
+¿Qué dudas todavía tengo? Como realizar el ciclo Git.
+¿Qué me gustaría de la sig. clase? Practicar un poco más el ciclo Git
