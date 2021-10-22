@@ -5,7 +5,7 @@
 
 ## steps
 
-1. Fork the repo
+1. Fork this repo
 2. Clone your username/passing-list to your local
 3. Add a [name].txt file
 4. Answer the questions on the .txt file
