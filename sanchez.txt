@@ -1,4 +1,4 @@
 Tu nombre Manuel Santiago Sánchez Murillo
-¿Qué aprendí hoy? Los Git, GitCycle
-¿Qué dudas todavía tengo?
-¿Qué me gustaría de la sig. clase?
+¿Qué aprendí hoy? Los Git, GitCycle, ver que se puede usar en trabajos de equipo
+¿Qué dudas todavía tengo? un poco de las branches
+¿Qué me gustaría de la sig. clase? Algo similiar, clases con ejercicios y participacion, pero que se grabara porque se me traba mucho
