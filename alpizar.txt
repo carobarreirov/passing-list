@@ -1,1 +1,4 @@
-
+Ximena Alpízar Vargas
+Aprendí que es Git, el flujo, como usar la terminar y las diferentes formas de usar GitHub
+Las dudas que me quedaron es que no me queda muy claro lo de la terminal y como saco la ventana de GitHub desktop
+Espero ver más sobre esto porque si confunde un poco ya que nunca lo había usado sobre todo la parte del push es lo que me cuesta trabajo
