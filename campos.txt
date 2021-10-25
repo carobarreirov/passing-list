@@ -1,0 +1,10 @@
+Bruno Campos
+
+¿Qué aprendí hoy?
+Existen alternativas para repositorios remotos además de github.
+
+¿Qué dudas todavía tengo?
+ninguna
+
+¿Qué me gustaría de la sig. clase?
+ver más funciones de git (ej. branches y megre conflicts)
