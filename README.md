@@ -1,7 +1,10 @@
 # passing-list
 
 ## instructions
-
+Escribe tu nombre en un txt y contesta a las siguientes preguntas:
+¿Qué aprendí hoy?
+¿Qué dudas todavía tengo?
+¿Qué me gustaría de la sig. clase?
 
 ## steps
 
