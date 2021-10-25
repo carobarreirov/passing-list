@@ -1,0 +1,7 @@
+Juan Carlos Sánchez Gutiérrez
+¿Qué aprendí hoy?
+- Reforcé mis conocimientos acerca del flujo de datos que se llevan a cabo en la lógica de Git, utilizando GitHub.
+¿Qué dudas todavía tengo?
+- Por ahora no tengo dudas, ya he usado mucho Git/GitHub y creo que me aclararon las dudas que podía tener.
+¿Qué me gustaría de la sig. clase?
+- Podría ser interesante hablar sobre las branches, o el metodo de branches para un equipo de desarrollo. Además, hablar de las diferentes formas que se puede colaborar sin nececidad de arruinarle el código a otros. 
