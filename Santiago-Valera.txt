@@ -1,0 +1,8 @@
+Tu nombre
+Santiago Valera Barreiros
+¿Qué aprendí hoy?
+Como realizar el ciclo de git en github en en desktop y en la versión web
+¿Qué dudas todavía tengo?
+No, yo creo que realizando esto más seguido será suficiente para comprenderlo mejor
+¿Qué me gustaría de la sig. clase?
+Seguir trabajando con GitHub
