@@ -1,0 +1,10 @@
+Raúl Gustavo Martínez Umaña
+
+¿Qué aprendí hoy?
+Repaso del uso de git para el trabajo colaborativo, también otros conceptos y funciones de la aplicación.
+
+¿Qué dudas todavía tengo?
+"Clonar el repositorio es nada más descargarlo en la computadora y trabajar desde ahí o hay más?"
+
+¿Qué me gustaría de la sig. clase?
+Aclarar dudas para el próximo examen parcial.
