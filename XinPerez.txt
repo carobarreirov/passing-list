@@ -1,0 +1,4 @@
+Alexandra Xin Pérez Zhou
+Varias cositas sobre Git y la diferencia entre Git y Github
+Todavía me falla hacer las cosas en consola (clonar repos, hacer los commit, etc.)
+Ver más cosas sobre el uso de las ramas
